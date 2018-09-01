@@ -23,7 +23,7 @@ import { HoldingsProvider } from '../providers/holdings/holdings';
   ],
   bootstrap: [IonicApp],
   entryComponents: [
-    MyApp,
+    MyApp
   ],
   providers: [
     StatusBar,
